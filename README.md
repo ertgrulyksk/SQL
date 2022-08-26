@@ -1,2 +1,2 @@
 # PatikaDev SQL ÖDEVLER
-## https://app.patika.dev/ertgrulyksk
+#### https://app.patika.dev/ertgrulyksk
